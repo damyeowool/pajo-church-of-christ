@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Church of Christ</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://pajochurchofchrist.ml/feed/" rel="self" type="application/rss+xml" />
+	<link>https://pajochurchofchrist.ml/</link>
 	<description></description>
 	<lastBuildDate>Tue, 13 Sep 2022 15:03:08 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/09/cropped-104775094_1328369627352880_476857034926180068_n-32x32.jpg</url>
+	<url>https://pajochurchofchrist.ml/wp-content/uploads/2022/09/cropped-104775094_1328369627352880_476857034926180068_n-32x32.jpg</url>
 	<title>Church of Christ</title>
-	<link>/</link>
+	<link>https://pajochurchofchrist.ml/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+		<link>https://pajochurchofchrist.ml/hello-world/</link>
+					<comments>https://pajochurchofchrist.ml/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[pajococ]]></dc:creator>
 		<pubDate>Tue, 13 Sep 2022 15:03:08 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://pajochurchofchrist.ml/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://pajochurchofchrist.ml/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
