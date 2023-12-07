@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Church of Christ</title>
-	<atom:link href="https://pajochurchofchrist.netlify.app/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pajochurchofchrist.netlify.app/</link>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 13 Sep 2022 15:03:08 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
-	<url>https://pajochurchofchrist.netlify.app/wp-content/uploads/2022/09/cropped-104775094_1328369627352880_476857034926180068_n-32x32.jpg</url>
+	<url>/wp-content/uploads/2022/09/cropped-104775094_1328369627352880_476857034926180068_n-32x32.jpg</url>
 	<title>Uncategorized &#8211; Church of Christ</title>
-	<link>https://pajochurchofchrist.netlify.app/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://pajochurchofchrist.netlify.app/hello-world/</link>
-					<comments>https://pajochurchofchrist.netlify.app/hello-world/#comments</comments>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[pajococ]]></dc:creator>
 		<pubDate>Tue, 13 Sep 2022 15:03:08 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://pajochurchofchrist.netlify.app/?p=1</guid>
+		<guid isPermaLink="false">/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://pajochurchofchrist.netlify.app/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
